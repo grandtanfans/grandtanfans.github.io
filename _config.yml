@@ -1,15 +1,15 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+title: '老痰酸菜面儿'
+description: '老痰的粉丝主页。“谢谢你。”'
+keywords: '老痰, 老痰酸菜面儿, 团建, team build'
+url: 'https://grandtanfans.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   首页: '/'
   标签: '/tags.html'
   时间线: '/timeline.html'
-  关于博主: '/about.html'
+  关于老痰: '/about.html'
   友情链接: '/friendLink.html'
 
 # 博主
@@ -20,7 +20,7 @@ webtitle: 'your awesome webtitle'
 bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
