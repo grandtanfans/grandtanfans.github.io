@@ -4,7 +4,7 @@ title: 'Hello World'
 date: 2019-12-26
 author: 痰黄刀
 color: rgb(255,210,32)
-cover: '../assets/20180518/olivia.jpg'
+cover: '../assets/20191226/olivia.jpg'
 tags: 博客系统
 ---
 
@@ -19,6 +19,8 @@ tags: 博客系统
 ![lA0L24.jpg](https://s2.ax1x.com/2019/12/26/lA0L24.jpg)
 
 这个是可以正常显示的。
+
+关于标签的配置：在头部直接按照这个格式写 `tag: tag1 [tag2 tag3 ...]` 即可，标签之间不需要加逗号，也不需要在标签集合的两边加上方括号之类的。
 
 # 一级标题
 
@@ -38,10 +40,10 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### 视频测试
 
-视频来源：<br/>YouTube：<br/>Up 主：[就等死再不運動](https://www.youtube.com/user/jkg8954200)<br/>视频链接：[DOUYU 蘇恩 pk 米儿 20191016](https://www.youtube.com/watch?v=VHRDPSOAC0A)
-
-如果是使用 [`<iframe>` 标签](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) 的话，搬 YT 的视频需要 `iframe[src]` 的值为 `协议://域名/embed/视频id` 的形式。我们也将会使用这种方法：
+如果是使用 [`<iframe>` 标签](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) 的话，搬 YT 的视频需要 `iframe[src]` 的值为 `协议://域名/embed/视频id` 的形式。我们也将会用 `<iframe>` 这种手法：
 
 <iframe type="text/html" width="100%" height="385" src="https://www.youtube.com/embed/VHRDPSOAC0A" frameborder="0"></iframe>
+
+上面的视频信息：<br/>来源：<br/>YouTube：<br/>Up 主：[就等死再不運動](https://www.youtube.com/user/jkg8954200)<br/>视频链接：[DOUYU 蘇恩 pk 米儿 20191016](https://www.youtube.com/watch?v=VHRDPSOAC0A)
 
 如果使用 [`<video>` 标签](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)，以现有的资源配置无法实现视频的播放，必须另外购买视频服务器或是购买专业视频托管服务。有这个钱还不如直接给老痰刷超火。
