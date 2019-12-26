@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Hello Jekyll'
+title: 'Hello World'
 date: 2017-04-18
-author: Jekyll
+author: 痰黄刀
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+cover: 'https://s2.ax1x.com/2019/12/26/lA0L24.jpg'
+tags: 博客系统
 ---
 
-> Transform your plain text into static websites and blogs.
+> 测试文本：引言内容。
 
 # Welcome
 
@@ -28,4 +28,4 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### Video Test
 
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
+<iframe type="text/html" width="100%" height="385" src="http://t.cn/AikgIx24?m=4453481500533744&u=2390692004" frameborder="0"></iframe>
