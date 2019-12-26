@@ -4,7 +4,7 @@ title: 'Hello World'
 date: 2017-04-18
 author: 痰黄刀
 color: rgb(255,210,32)
-cover: 'https://s2.ax1x.com/2019/12/26/lA0L24.jpg'
+cover: '../assets/20180518/olivia.jpg'
 tags: 博客系统
 ---
 
