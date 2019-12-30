@@ -4,7 +4,7 @@ title: '祝各位老痰粉丝元旦快乐！'
 date: 2019-12-31
 author: 痰黄刀
 color: rgb(250,88,18)
-cover: ''
+cover: 'https://s2.ax1x.com/2019/12/30/lQQnLn.jpg'
 tags: 节日祝福
 ---
 
