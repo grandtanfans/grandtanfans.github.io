@@ -4,7 +4,7 @@ title: 'Hello World'
 date: 2019-12-26
 author: 痰黄刀
 color: rgb(255,210,32)
-cover: '../assets/20191226/olivia.jpg'
+cover: 'https://s2.ax1x.com/2019/12/26/lA0L24.jpg'
 tags: 博客系统
 ---
 
