@@ -71,6 +71,10 @@ for (id obj in backup) {
 
 不过一般来说，你描述 TB 博客也没必要用到代码高亮的文学手法，除非是你整个赛博朋克的文风。。。
 
+### 评论功能
+
+用的 [来必力](http://livere.com/)。配置很简单，都不要求能看懂英语啥的。这个东西配完一次基本上不需要配第二次，只是说下当前部落格的评论功能是用的 **来必力** 而已。
+
 ### 视频测试
 
 如果是使用 [`<iframe>` 标签](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) 的话，搬 YT 的视频需要 `iframe[src]` 的值为 `协议://域名/embed/视频id` 的形式。我们也将会用 `<iframe>` 这种手法：
