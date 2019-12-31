@@ -47,7 +47,7 @@ Jekyll 使用 [Rouge](http://rouge.jneen.net) 这个使用 Ruby 编写的代码�
 
 代码高亮示例如下：
 
-```javascript
+<pre>
 {% highlight objective_c %}
 NSArray *backup = @[@"苏", @"米", @"珂", @"瓜"];
 // 可能有语法错误，我只是拿这玩意儿举个例子。
@@ -55,7 +55,7 @@ for (id obj in backup) {
     NSLog(obj);
 }
 {% endhighlight %}
-```
+</pre>
 
 实装结果：
 
@@ -67,9 +67,9 @@ for (id obj in backup) {
 }
 {% endhighlight %}
 
-上面实例里的 `objective_c` 那个就是语言的标识符。关于 [Rouge](http://rouge.jneen.net) 所支持的语言的标识符，上这里去看：[Rouge wiki](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)；Jekyll 基于 Rouge 的语法高亮，可以参考这个：[Syntax Highlighting in Jekyll](http://sangsoonam.github.io/2019/01/20/syntax-highlighting-in-jekyll.html)。
+上面示例里代码块的头部 `{% highlight objective_c %}` 中 `objective_c` 那个就是语言的标识符。关于 [Rouge](http://rouge.jneen.net) 所支持的语言的标识符，上这里去看：[Rouge wiki](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)；Jekyll 基于 Rouge 的语法高亮，可以参考这个：[Syntax Highlighting in Jekyll](http://sangsoonam.github.io/2019/01/20/syntax-highlighting-in-jekyll.html)。
 
-不过一般来说，你写个这个东西也没必要用代码高亮。。。
+不过一般来说，你描述 TB 博客也没必要用到代码高亮的文学手法，除非是你整个赛博朋克的文风。。。
 
 ### 视频测试
 
