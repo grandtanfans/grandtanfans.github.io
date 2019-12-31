@@ -10,7 +10,10 @@ tags: 博客系统
 
 > 测试文本：引言内容。
 
-摘要会带上引用的内容以及部分正文内容。
+目录：
+
+* TOC
+{:toc}
 
 本帖无实质性更新。主要是为了博主本人熟悉和该博客相关的一些内容和配置，为之后的发文提供便利。
 
@@ -37,6 +40,24 @@ Jekyll is a simple, blog-aware, static site generator. It takes a template direc
 ### Helpful HintsPermalink
 
 Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
+
+### 代码高亮
+
+Jekyll 使用 [Rouge](http://rouge.jneen.net) 这个使用 Ruby 编写的代码高亮器来实现代码的高亮，Rouge 在 Jekyll 3 及以上的环境可用（这年头应该没有憨比还在用 Jekyll 2 吧）。
+
+代码高亮示例如下：
+
+{% highlight objective_c %}
+NSArray *backup = @[@"苏", @"米", @"珂", @"瓜"];
+// 可能有语法错误，我只是拿这玩意儿举个例子。
+for (id obj in backup) {
+    NSLog(obj);
+}
+{% endhighlight %}
+
+上面 `objective_c` 那个就是语言的标识符。关于 Rouge 所支持的语言的标识符，上这里去看：[Rouge wiki](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers).
+
+不过一般来说，你写个这个东西也没必要用代码高亮。。。
 
 ### 视频测试
 
