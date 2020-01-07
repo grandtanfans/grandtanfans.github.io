@@ -1,0 +1,25 @@
+---
+layout: post
+title: '谢谢你。'
+date: 2020-01-06
+author: 痰黄刀
+color: rgb(22,2,222)
+cover: 'https://s2.ax1x.com/2020/01/07/lyxsv6.jpg'
+tags: 三角题
+---
+
+> “All hearts are broken. All lives end. Caring is not an advantage, Sherlock.”<br/><span style="text-align:right; display:block">······Mycroft Holmes, “Sherlock S2E2”</span>
+
+---
+
+老痰最后还是……这一刻，大家的心情就像城市的天空一样灰蒙蒙。
+
+> “去年生日许的愿去年实现了，打游戏厉害声音好听个子高，天蝎座男友，我喜欢的样子他都有。<br/>二十五岁，请多多指教。” ​​​​
+
+<img src="https://s2.ax1x.com/2020/01/07/lyj2QK.jpg" style="display:block; margin-left:auto; margin-right:auto" alt="博文配图" border="0" />
+
+什么都不说了，生日快乐。
+
+顺便带来一首老歌[《谢谢》](http://t.cn/Aisi68a0?m=4457871443679936&u=2390692004)：
+
+![](https://s2.ax1x.com/2020/01/07/lyxmDS.png)
