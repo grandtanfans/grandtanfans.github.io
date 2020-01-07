@@ -8,13 +8,11 @@ cover: 'https://s2.ax1x.com/2020/01/07/lyxsv6.jpg'
 tags: 三角题
 ---
 
-> “All hearts are broken. All lives end. Caring is not an advantage, Sherlock.”<br/><span style="text-align:right; display:block"> —— Mycroft Holmes, “Sherlock S2E2”</span>
+> “All hearts are broken. All lives end. Caring is not an advantage, Sherlock.”<br/><span style="text-align:right; display:block">—— Mycroft Holmes, “Sherlock S2E2”</span>
 
 ---
 
-老痰最后还是……这一刻，大家的心情就像城市的天空一样灰蒙蒙：
-
-![](https://s2.ax1x.com/2020/01/07/l6CtAS.png)
+老痰最后还是……这一刻，大家的心情就像 [城市的天空](https://s2.ax1x.com/2020/01/07/lyxsv6.jpg) 一样灰蒙蒙。
 
 > “去年生日许的愿去年实现了，打游戏厉害声音好听个子高，天蝎座男友，我喜欢的样子他都有。<br/>二十五岁，请多多指教。” ​​​​
 
