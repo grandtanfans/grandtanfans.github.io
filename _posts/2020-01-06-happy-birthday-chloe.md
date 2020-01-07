@@ -8,7 +8,7 @@ cover: 'https://s2.ax1x.com/2020/01/07/lyxsv6.jpg'
 tags: 三角题
 ---
 
-> “All hearts are broken. All lives end. Caring is not an advantage, Sherlock.”<br/><span style="text-align:right; display:block">—— Mycroft Holmes, “Sherlock S2E2”</span>
+> “All hearts are broken. All lives end. Caring is not an advantage, Sherlock.”<br/><span style="text-align:right; display:block"> —— Mycroft Holmes, “Sherlock S2E2”</span>
 
 ---
 
