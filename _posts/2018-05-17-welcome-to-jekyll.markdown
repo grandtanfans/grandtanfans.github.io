@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-05-17 14:05:21 +0800
-tags: jekyll
+tags: 博客系统
 color: rgb(255,90,90)
 cover: 'https://s2.ax1x.com/2019/12/30/ll8HW6.jpg'
 subtitle: 'Welcome to Jekyll!'
