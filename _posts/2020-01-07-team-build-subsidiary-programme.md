@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '团建 DLC 素材。'
+title: '团建 DLC 素材'
 date: 2020-01-07
 author: 痰黄刀
 color: rgb(88,18,28)

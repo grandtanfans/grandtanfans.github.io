@@ -4,7 +4,7 @@ title: '祝各位老痰粉丝元旦快乐！'
 date: 2019-12-31
 author: 痰黄刀
 color: rgb(250,88,18)
-cover: 'https://s2.ax1x.com/2019/12/30/lQQnLn.jpg'
+cover: 'https://upload.cc/i1/2020/01/11/icRnPO.jpg'
 tags: 节日祝福
 ---
 
@@ -22,4 +22,4 @@ tags: 节日祝福
 
 最后，再次祝大家元旦快乐，早日如愿恰到烂钱和女粉；而要考试特别是考数学的旁友，能够下笔惊风雨，金榜有题名，掌握 *S*<sub>△<i>ABC</i></sub> = 底乘高除以 *2* = ½<i>ab</i>sin*C* = √[<i>p</i>(*p* - *a*)(*p* - *b*)(*p* - *c*)] 等各种公式、熟悉内外重旁垂五心的性质，理解正弦余弦梅涅劳斯赛瓦之类的定理，顺利做粗《三角题》：
 
-![lMxZJU.png](https://s2.ax1x.com/2019/12/30/lMxZJU.png)
+![](https://upload.cc/i1/2020/01/11/deS26R.png)

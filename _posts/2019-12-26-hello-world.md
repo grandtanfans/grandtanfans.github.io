@@ -4,7 +4,7 @@ title: 'Hello World'
 date: 2019-12-26
 author: 痰黄刀
 color: rgb(255,210,32)
-cover: 'https://s2.ax1x.com/2019/12/26/lA0L24.jpg'
+cover: 'https://upload.cc/i1/2020/01/11/uqDwPB.jpg'
 tags: 博客系统
 subtitle: '此条为副标题'
 ---
@@ -18,7 +18,7 @@ subtitle: '此条为副标题'
 
 注意：封面图片似乎不会完全显示。目前的分析结果是 PC 端和移动端的图片 `height` **都会给定到 300px**（长图似乎是取尺寸压缩过的图片的靠上面的部分，怎么压的这个机制没看出来），`width` 不定，跟你浏览器的 window 尺寸走，但是最大会给到 689.27px，这时候 width : height ≈ 2.3 : 1; <br/>必须要有封面图片，不然的话你的这个封面图片的位置就会空出一个 689.27px × 300px 的空白，十分难看。<br/>注意封面头部托管到网上加载速度会略快一些。<br/>正文图片测试（同封面图片）：
 
-![lA0L24.jpg](https://s2.ax1x.com/2019/12/26/lA0L24.jpg)
+![lA0L24.jpg](https://upload.cc/i1/2020/01/11/uqDwPB.jpg)
 
 这个是可以正常显示的。
 
