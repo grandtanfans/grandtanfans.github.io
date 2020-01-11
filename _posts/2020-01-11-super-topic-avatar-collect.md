@@ -4,7 +4,7 @@ title: '2020 年一月中旬至二月中旬老痰超话头像征集活动'
 date: 2020-01-11
 author: 痰黄刀
 color: rgb(28,88,18)
-cover: ''
+cover: 'https://upload.cc/i1/2020/01/11/eA3bKt.png'
 tags: 超话活动
 ---
 
