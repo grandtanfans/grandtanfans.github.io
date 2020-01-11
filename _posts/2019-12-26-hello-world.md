@@ -43,6 +43,12 @@ Jekyll is a simple, blog-aware, static site generator. It takes a template direc
 
 Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
 
+### 符号类
+
+符号不会打的话上这儿找：[HTML Symbols, Entities, Characters and Codes — HTML Arrows](https://www.toptal.com/designers/htmlarrows/)。
+
+* 竖杠 `|`：请用 `&#x7c;` 来表示。这种是比较长的竖杠。比如在 [这儿](https://grandtanfans.github.io/2020/01/11/super-topic-avatar-collect.html) 中有篇设计思想就用到过。
+
 ### 代码高亮
 
 Jekyll 使用 [Rouge](http://rouge.jneen.net) 这个使用 Ruby 编写的代码高亮器来实现代码的高亮，Rouge 在 Jekyll 3 及以上的环境可用（这年头应该没有憨比还在用 Jekyll 2 吧）。

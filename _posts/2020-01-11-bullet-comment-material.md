@@ -4,7 +4,7 @@ title: '直播弹幕素材'
 date: 2020-01-11
 author: 痰黄刀
 color: rgb(18,28,88)
-cover: ''
+cover: 'https://upload.cc/i1/2020/01/11/Mk4oPx.png'
 tags: 常用工具
 ---
 
