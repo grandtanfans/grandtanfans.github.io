@@ -6,9 +6,8 @@ author: 痰黄刀
 color: rgb(255,210,32)
 cover: 'https://s2.ax1x.com/2019/12/26/lA0L24.jpg'
 tags: 博客系统
+subtitle: '此条为副标题'
 ---
-
-> 测试文本：引言内容。
 
 目录：
 
