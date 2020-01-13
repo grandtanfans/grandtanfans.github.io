@@ -33,3 +33,7 @@ tags: 超话活动
 * ![](https://upload.cc/i1/2020/01/11/bRKgGw.jpg)
 * ![](https://upload.cc/i1/2020/01/11/xtUObi.jpg)
 
+## 最后实装 by 啊呜呜
+
+* ![](https://i.loli.net/2020/01/14/3nQq8MrEp4PYeTv.jpg)
+
