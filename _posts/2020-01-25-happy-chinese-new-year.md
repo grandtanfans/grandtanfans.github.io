@@ -2,7 +2,7 @@
 layout: post
 title: '祝各位老痰粉丝新春快乐！'
 date: 2020-01-25
-author: 痰黄刀
+author: 啊呜呜
 color: rgb(88,18,28)
 cover: 'https://upload.cc/i1/2020/01/25/hfAHpW.jpg'
 tags: 节日祝福
