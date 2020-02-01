@@ -5,7 +5,7 @@ date: 2020-01-25
 author: 啊呜呜
 color: rgb(88,18,28)
 cover: 'https://upload.cc/i1/2020/01/25/hfAHpW.jpg'
-tags: 节日祝福
+tags: 祝福
 ---
 
 > [原博文链接](https://weibo.com/2886348734/Ir1QSBMjB)

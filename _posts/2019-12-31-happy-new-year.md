@@ -5,7 +5,7 @@ date: 2019-12-31
 author: 痰黄刀
 color: rgb(250,88,18)
 cover: 'https://upload.cc/i1/2020/01/11/icRnPO.jpg'
-tags: 节日祝福
+tags: 祝福
 ---
 
 > 元旦快乐！
