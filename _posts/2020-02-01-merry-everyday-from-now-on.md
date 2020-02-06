@@ -4,7 +4,7 @@ title: '祝各位老痰粉丝平安喜乐！'
 date: 2020-02-01
 author: 啊呜呜
 color: rgb(88,18,28)
-cover: 'https://upload.cc/i1/2020/02/01/IuzJ6e.png'
+cover: 'https://s2.ax1x.com/2020/02/06/160lo8.jpg'
 tags: 祝福
 ---
 
@@ -14,4 +14,4 @@ tags: 祝福
 
 封面图与正文配图皆为博主所加，非作者原文。
 
-![](https://upload.cc/i1/2020/02/01/YgABNI.png)
+![](https://s2.ax1x.com/2020/02/06/160nsI.jpg)
