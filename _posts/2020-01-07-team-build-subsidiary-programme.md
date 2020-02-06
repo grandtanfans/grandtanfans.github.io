@@ -4,7 +4,7 @@ title: '团建 DLC 素材'
 date: 2020-01-07
 author: 痰黄刀
 color: rgb(88,18,28)
-cover: 'https://upload.cc/i1/2020/01/11/4IGlU0.png'
+cover: 'https://i.loli.net/2019/12/22/W9NKa4pyLvMbQGU.png'
 tags: 团建艺术
 ---
 
