@@ -4,7 +4,7 @@ title: '二零二零年度一月中旬至二月中旬老痰超话头像征集活
 date: 2020-01-11
 author: 痰黄刀
 color: rgb(28,88,18)
-cover: 'https://upload.cc/i1/2020/01/11/eA3bKt.png'
+cover: 'https://s2.ax1x.com/2020/02/06/166AFP.jpg'
 tags: 超话活动
 ---
 
