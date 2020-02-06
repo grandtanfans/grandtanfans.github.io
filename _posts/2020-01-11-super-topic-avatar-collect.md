@@ -20,18 +20,18 @@ tags: 超话活动
 
 ## 璞一一
 
-* ![](https://upload.cc/i1/2020/01/11/Wn81Ii.jpg)<br/>“老图照样可以冲”
+* ![](https://i.loli.net/2020/02/06/o5RPGzlxKuIBjgw.jpg)<br/>“老图照样可以冲”
 
 ## 天生干部雄教授
 
-* ![](https://upload.cc/i1/2020/01/11/BkvKTY.jpg)<br/>“左右护法就不多介绍了。老痰作为著名一级团队建造师，德高望韶，堪为 Captain Tan:The First Team Builder，带领大家在 TB 的道路上勇往直前。过去的已经过去了，痰还是要向前看；苏的头像有个biu，比较适合这个场景；一月中旬正值新春到来，米在恰饼寓意着老痰恰到女粉的吉兆。再者也包含了对痰和 (苏 &#x7c; 米) 往后余生共度新春的美好祝愿。”
-* ![](https://upload.cc/i1/2020/01/11/M68eBV.jpg) <br/>“孤独时代的你我：我认为哈，二珂6号发的那个图就挺适合，配上一行字:我喜欢的亚子她都有。”
+* ![](https://i.loli.net/2020/02/06/MhpBuLRvbjF7U5Y.jpg)<br/>“左右护法就不多介绍了。老痰作为著名一级团队建造师，德高望韶，堪为 Captain Tan: The First Team Builder，带领大家在 TB 的道路上勇往直前。过去的已经过去了，痰还是要向前看；苏的头像有个biu，比较适合这个场景；一月中旬正值新春到来，米在恰饼寓意着老痰恰到女粉的吉兆。再者也包含了对痰和 (苏 &#x7c; 米) 往后余生共度新春的美好祝愿。”
+* ![](https://i.loli.net/2020/02/06/NuGYew3ZHOgv4VT.jpg)<br/>“孤独时代的你我：我认为哈，二珂6号发的那个图就挺适合，配上一行字:我喜欢的亚子她都有。”
 
 ## 茶茶的cyfe
 
-* ![](https://upload.cc/i1/2020/01/11/y7f09X.jpg)
-* ![](https://upload.cc/i1/2020/01/11/bRKgGw.jpg)
-* ![](https://upload.cc/i1/2020/01/11/xtUObi.jpg)
+* ![4.jpg](https://i.loli.net/2020/02/06/gbY6kPEaJzKsdTQ.jpg)
+* ![2.jpg](https://i.loli.net/2020/02/06/swWuMIUmYxhdfqZ.jpg)
+* ![5.jpg](https://i.loli.net/2020/02/06/zOBKoF1q4lNRpPx.jpg)
 
 ## 最后实装 by 啊呜呜
 
