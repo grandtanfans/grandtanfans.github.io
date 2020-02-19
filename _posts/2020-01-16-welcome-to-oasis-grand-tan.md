@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '恭喜痰工进驻绿洲'
+title: '欢迎痰工进驻绿洲！'
 date: 2020-01-16
 author: 痰黄刀
 color: rgb(28,18,88)
