@@ -5,7 +5,7 @@ date: 2020-02-19
 author: 啊呜呜
 color: rgb(188,74,83)
 cover: 'https://i.loli.net/2020/02/19/txVnJkeAmsc7W89.png'
-tags: 老痰动态,超话活动
+tags: 老痰动态 超话活动
 ---
 
 > [原博文链接](https://weibo.com/2886348734/IuPyYCieN)
