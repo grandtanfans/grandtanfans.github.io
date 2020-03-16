@@ -3,8 +3,8 @@ layout: post
 title: '爱痰的心从未改变'
 date: 2020-03-16
 author: 孤独时代的高斯面
-color: rgb(17,50,133)
-cover: 'https://s1.ax1x.com/2020/03/15/83TvGQ.png'
+color: rgb(77,116,113)
+cover: 'https://s1.ax1x.com/2020/03/16/8GvzQK.png'
 tags: 水友创作
 ---
 
