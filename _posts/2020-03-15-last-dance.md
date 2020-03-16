@@ -5,7 +5,7 @@ date: 2020-03-15
 author: 吉格斯的忧伤
 color: rgb(17,50,133)
 cover: 'https://s1.ax1x.com/2020/03/15/83TvGQ.png'
-tags: 视频艺术
+tags: 水友创作
 ---
 
 > [原博文链接](https://weibo.com/5335019653/IyDSoqzCC)
