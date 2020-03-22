@@ -48,6 +48,7 @@ tags: 常用工具
 * 请让我原地恋爱🙈
 * 人和人之间最强的滤镜<br/>不过是一双偏爱的眼睛
 * 人生都是平庸<br/>但痰就是我这里仅存温柔
+* 如果温柔有形态，那一定是痰的样子
 * “若不是因为爱着痰，怎么会夜深还没睡意”
 * “Searching for meaning<br/>But are we all lost stars trying to light up the dark<br/>Who are we<br/>Just a speck of dust within the galaxy”<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——Lost Stars
 * 山野千里，痰是我藏在星星里的浪漫。
@@ -124,6 +125,7 @@ tags: 常用工具
 * 遇到痰的这一生<br/>是奖赏
 * 遇见痰爱意汹涌<br/>看世间万物都浪漫心动
 * 宇宙不浪漫<br/>还好痰温柔
+* 愿痰三冬暖<br/>愿痰春不寒<br/>愿痰天黑有灯 下雨有伞
 * 月色与雪色之间<br/>痰是第三种颜色<br/>于我而言<br/>日月星耀中<br/>痰是第四种难得
 * 月有眾星<br/>我只喜欢痰
 * 怎舍俩俩相忘
