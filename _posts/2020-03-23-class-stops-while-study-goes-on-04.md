@@ -19,11 +19,11 @@ tags: 三角题
 
 ## 今日题目01
 
-![8](https://s1.ax1x.com/2020/03/23/8HSEj0.jpg)
+![](https://s1.ax1x.com/2020/03/23/8H0xMD.jpg)
 
 ## 今日题目02
 
-![](https://s1.ax1x.com/2020/03/23/8HSeBT.jpg)
+![](https://s1.ax1x.com/2020/03/23/8H0XRK.jpg)
 
 ## 今日题目03
 
@@ -31,6 +31,4 @@ tags: 三角题
 
 但是至少思路是对的。。。而且是我心不在焉的时候做成这样，更值得肯定。
 
-![](https://s1.ax1x.com/2020/03/23/8HSUED.jpg)
-
-
+![](https://s1.ax1x.com/2020/03/23/8H0LPx.jpg)
