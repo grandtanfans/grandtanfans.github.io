@@ -10,7 +10,7 @@ tags: 三角题
 
 > “我可以跟在你身后<br/>像影子追着光梦游<br/>我可以等在这路口<br/>不管你会不会经过”
 
-<img src="https://s1.ax1x.com/2020/03/20/8gQYHU.jpg" alt="战胜疫情有你有我" border="0" />
+<img src="https://s1.ax1x.com/2020/03/20/8gK9bD.jpg" alt="防控疫情你我同行" border="0">
 
 目录：
 
