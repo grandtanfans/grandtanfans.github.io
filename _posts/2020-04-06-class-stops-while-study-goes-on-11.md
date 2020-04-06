@@ -8,7 +8,7 @@ cover: 'https://s1.ax1x.com/2020/04/05/GrrR9H.jpg'
 tags: 三角题
 ---
 
-> “”
+> “对不起<br/>独自回荡在空气没人听<br/>最后又是孤单到天明”
 
 <img src="https://s1.ax1x.com/2020/04/05/GrrR9H.jpg" alt="众志成城 抗击疫情" border="0" />
 
