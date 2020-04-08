@@ -8,7 +8,7 @@ cover: 'https://s1.ax1x.com/2020/04/06/GsStat.jpg'
 tags: 三角题
 ---
 
-> “”
+> “爱上了你之后<br/>我从来不哭<br/>谁是谁的幸福<br/>我从来不在乎”
 
 <img src="https://s1.ax1x.com/2020/04/06/GsStat.jpg" alt="中国加油 武汉加油" border="0" />
 
