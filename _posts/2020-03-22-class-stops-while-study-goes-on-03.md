@@ -10,7 +10,7 @@ tags: 三角题
 
 > “随人去拼凑我们的故事<br/>我懒得解释<br/>爱怎么解释”
 
-<img src="https://s1.ax1x.com/2020/03/20/8guvgx.jpg" alt="疫情就是命令防控就是责任" border="0">
+<img src="https://s1.ax1x.com/2020/03/20/8guvgx.jpg" alt="疫情就是命令 防控就是责任" border="0">
 
 目录：
 

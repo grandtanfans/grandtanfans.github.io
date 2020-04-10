@@ -10,7 +10,7 @@ tags: 三角题
 
 > “听了太多关于她喜欢你的原因<br/>但从未考虑和她分享<br/>其实我也有难言的秘密”
 
-<img src="https://s1.ax1x.com/2020/03/20/8gQYHU.jpg" alt="战胜疫情有你有我" border="0" />
+<img src="https://s1.ax1x.com/2020/03/20/8gQYHU.jpg" alt="战胜疫情 有你有我" border="0" />
 
 目录：
 

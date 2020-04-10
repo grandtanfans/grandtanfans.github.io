@@ -10,7 +10,7 @@ tags: 三角题
 
 > “不是所有感情都会有始有终<br/>孤独尽头不一定惶恐<br/>可生命总免不了<br/>最初的一阵痛”
 
-<img src="https://s1.ax1x.com/2020/03/20/8gK9bD.jpg" alt="防控疫情你我同行" border="0">
+<img src="https://s1.ax1x.com/2020/03/20/8gK9bD.jpg" alt="防控疫情 你我同行" border="0">
 
 目录：
 
