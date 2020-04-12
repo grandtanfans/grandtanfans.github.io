@@ -10,7 +10,7 @@ tags: 三角题
 
 > “Since I can’t remember when<br/>It’s been a long, long time<br/>You’ll never know how many dreams<br/>I’ve dreamed about you<br/>Or just how empty they all seemed without you<br/>So kiss me once, then kiss me twice<br/>Then kiss me once again<br/>It’s been a long, long time”
 
-<img src="https://s1.ax1x.com/2020/04/12/GLkCYF.png" alt="苏苏亲米儿" border="0">
+<img src="https://s1.ax1x.com/2020/04/12/GLkCYF.png" alt="苏苏恰米" border="0">
 
 目录：
 
