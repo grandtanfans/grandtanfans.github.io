@@ -5,7 +5,7 @@ date: 2020-05-02
 author: 啊呜呜
 color: rgb(224,122,160)
 cover: 'https://s1.ax1x.com/2020/05/06/Yk7Rvn.png'
-tags: 水友创作
+tags: 水友创作 老痰动态
 ---
 
 > [原博文链接](https://weibo.com/2886348734/IFROgvK3k)
