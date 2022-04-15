@@ -8,6 +8,9 @@ cover: 'https://s4.ax1x.com/2022/02/03/HEhJv6.jpg'
 tags: 三角题
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
+
 > Darling, so there you are<br/>With that look on your face<br/>As if you’re never hurt<br/>As if you’re never down
 
 <img src="https://s4.ax1x.com/2022/02/03/HEhJv6.jpg" alt="新年快乐" border="0" />
@@ -16,8 +19,6 @@ tags: 三角题
 
 * TOC
 {:toc}
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 今天是第三期，然后今年这个贺岁版就算杀青了。连写三道有些手疼。在草算纸上尝试、计算是一方面；最主要笔者是那种比较严谨的那种人，步骤基本上都很连贯，思路也很顺理成章，所以。。。想想也是，广大水友参加痰话会，包括我们来听 TA 的演唱会，甚至在平行宇宙里痰在嘉年华上听着三角题猛男落泪，大概也是存着看下世界上的另一个自己的心思吧。
 
