@@ -8,6 +8,9 @@ cover: 'https://s4.ax1x.com/2022/02/03/HEhJv6.jpg'
 tags: 三角题
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
+
 > Darling, so there you are<br/>With that look on your face<br/>As if you’re never hurt<br/>As if you’re never down
 
 <img src="https://s4.ax1x.com/2022/02/03/HEhJv6.jpg" alt="新年快乐" border="0" />
