@@ -8,7 +8,7 @@ cover: 'https://s1.ax1x.com/2022/04/30/Opm5QJ.jpg'
 tags: 三角题
 ---
 
-> 好景不会每日常在<br/>天梯不可只往上爬<br/>爱的人没有一生一世吗<br/>大概不需要害怕
+> “好景不会每日常在<br/>天梯不可只往上爬<br/>爱的人没有一生一世吗<br/>大概不需要害怕”
 
 <img src="https://s1.ax1x.com/2022/04/30/Opm5QJ.jpg" alt="劳动节快乐" border="0" />
 

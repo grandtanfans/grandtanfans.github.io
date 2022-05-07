@@ -8,7 +8,7 @@ cover: 'https://s4.ax1x.com/2022/02/03/HEhJv6.jpg'
 tags: 三角题
 ---
 
-> Darling, so there you are<br/>With that look on your face<br/>As if you’re never hurt<br/>As if you’re never down
+> “Darling, so there you are<br/>With that look on your face<br/>As if you’re never hurt<br/>As if you’re never down”
 
 <img src="https://s4.ax1x.com/2022/02/03/HEhJv6.jpg" alt="新年快乐" border="0" />
 
